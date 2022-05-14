@@ -9,7 +9,7 @@ To dive into these questions, I rolled up my sleeves and prepared myself for som
 
 ## Visualizations
 
-### Senate Roll Call
+### [Senate Roll Call](https://github.com/tashapiro/supreme-court-justices/blob/main/code/scotus-senate-votes.R)
 The following visualization looks at Senate Roll call data for the past 12 successful Supreme Court Justice nominations. Points are colored based on each Senator's political party. Filled points indicate a "Yea" vote, wherease outlined points indicate a "Nay" or "Not Voting" vote. The visual was rendered using **ggplot** and ggplot extension packages, **ggparliament** and **ggimage**. An interactive version of this visual was created using ggigraph and is hosted on my [website](https://www.tanyashapiro.com/interactive-visuals/supreme-court).  &nbsp;
 
 ![Screenshot](plots/supreme-senate-votes.png)
